@@ -8,11 +8,11 @@
   
 ## Natours App 
 
-Welcome to Natours! This web application is designed specially for persons who love travelling and going on tour vacations.
+Welcome to Natours! This web application is made for people who love travelling and going on tour vacations.
 
 
 
-## Technologies 🚀
+## Technologies 
 
 - Node.js
 - Express.js
@@ -27,8 +27,8 @@ Welcome to Natours! This web application is designed specially for persons who l
 - bcrypt
 - Nodemailer
 - Gmail
-
-## Features ✨
+  
+## Features 
 
 - [x] Browse and book a variety of nature tours.
 - [x] Signup and create your own account!
@@ -39,10 +39,10 @@ Welcome to Natours! This web application is designed specially for persons who l
 - [x] Tour reviews and ratings by fellow travelers.
 - [x] Reset your password
 - [x] Update your password and profile
-- [x] Stripe payment checkout gateway 💸
+- [x] Stripe payment checkout gateway 
 - [x] Upload Profile Picture
-- [x] Email service 📨
-- [x] Responsive for Mobiles, Laptops and PC 📱
+- [x] Email service 
+- [x] Responsive for different platforms
 
 ## Setting Up Your Local Environment
 
