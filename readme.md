@@ -6,20 +6,11 @@
   <br>
 </h1>
   
-## Introduction 🌟
+## Natours App 
 
-Welcome to Natours! This full stack web application is designed specially for persons who love travelling and going on tour vacations.
+Welcome to Natours! This web application is designed specially for persons who love travelling and going on tour vacations.
 
-> **This was developed under the guidance of _Jonas Schmedtmann's_ [Node.js course](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) that consists of**
 
-- 📃How to create an API
-- 🎮MVC Architecture
-- 👩‍💻User Authentication
-- 📚Data Modelling
-- 🤳File Uploading
-- 📌Realtime Map integeration using Mapbox
-
-and much more 😉
 
 ## Technologies 🚀
 
@@ -103,7 +94,24 @@ During API development, I use `Postman` for testing API.
 - Postman documentation is available on this link [Natours API Documentation](https://documenter.getpostman.com/view/32375212/2sA2r3YQxj)
 - Base URL endpoints: `http://127.0.0.1:3000/api/V1/` or `http://localhost:3000/api/v1/`
 
-## Project Demo 🎬
+## Project Demo 
+
+#### Home Page :
+https://github.com/gomaa55/Natours/assets/81438589/477e24ef-7027-4dbb-a0c8-049ab9d3a750
+
+#### Tour Details :
+https://github.com/gomaa55/Natours/assets/81438589/a29aae95-96f4-413e-8a5d-5fe42bac72e9
+
+#### Payment Process :
+https://github.com/gomaa55/Natours/assets/81438589/a6b0fdb5-6a9e-4713-8735-c826705d15af
+
+#### Booked Tours :
+https://github.com/gomaa55/Natours/assets/81438589/866447f5-1b94-4387-8870-63f9e4791e08
+
+#### User Profile :
+https://github.com/gomaa55/Natours/assets/81438589/1082ee57-3ccf-4d22-a96d-d6dd49cae68b
+
+
 
 ## License
 
